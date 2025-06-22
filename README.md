@@ -181,14 +181,17 @@ resource "azurerm_storage_management_policy" "archive_policy" {
 
 ---
 
-Let us know if you need production-grade code, Function App deployments, or CI/CD templates.
+******************************************************************************
+******************************************************************************
 
 
 
+
+
+![alt text](image.png)
 
 ###  Based on the image description 
 
-![alt text](image.png)
 
 Based on the image description, here's a concise explanation of the **Cost Optimization Solution** using hot-cold data tiering:
 
