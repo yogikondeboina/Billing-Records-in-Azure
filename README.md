@@ -186,6 +186,8 @@ resource "azurerm_storage_management_policy" "archive_policy" {
 
 
 
+%%%%%  Hot-Cold Data Tiering for Cost Optimization in Azure  %%%%%%
+
 
 
 ![alt text](image.png)
